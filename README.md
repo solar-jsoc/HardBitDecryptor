@@ -1,4 +1,4 @@
-# DecryptHardBit
+# HardBitDecryptor
 This program allows you to decrypt files encrypted by HardBit ransomware. 
 The program was mainly tested for HardBit3 version 3 but it also works for version 2.
 
